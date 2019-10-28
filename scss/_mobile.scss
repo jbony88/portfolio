@@ -66,7 +66,24 @@
   .projects {
     grid-template-columns: 1fr;
   }
+
+  .boxes > div {
+    font-size: 16px;
+  }
+  #ct-title {
+    font-size: 35px;
+  }
+  #name-title {
+    font-size: 35px;
+  }
+  #about-title {
+    font-size: 35px;
+  }
+  #work-title {
+    font-size: 35px;
+  }
 }
+
 main#home h1 {
   margin-top: 10vh;
 }
